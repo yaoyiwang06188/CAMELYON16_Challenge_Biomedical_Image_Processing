@@ -1,7 +1,9 @@
 # CAMELYON16_Challenge_Biomedical_Image_Processing
 
 This is ADL Final Project- CAMELYON16 Challenge
+
 Team Members: Mike Wang(yw3423), Wangzhi Li(lw2737)
+
 youtube video: https://youtu.be/fHY0vi3l8R8
 
 Digital pathology is a new, rapidly expanding field of medical imaging. The goal of this project is to build up deep neural networks to assist pathologists in identifying tumor cell location and reduce their workload.
